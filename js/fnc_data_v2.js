@@ -27,15 +27,19 @@ var maxRows = 35;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
-  "Limited Edition Single (会場限定版シングル)",
-  "SCREAMING RHAPSODY",
-  "AN ALIEN'S PORTRAIT",
-  "Noisy Night Fever",
-  "Broken By The Scream 〜extended〜 (Limited Edition)",
-  "RISE into CHAOS【初回盤】",
-  "Whitewater Park【Type-A】",
-  "Whitewater Park【Type-B】",
-  "ReMake Them Joy"
+  "Dariacore",
+  "Dariacore 2: Enter Here, Hell to the Left",
+  "Dariacore 3... At least I think that's what it's called?",
+  "Grave Robbing",
+  "Teen Week",
+  "Frailty",
+  "Census Designated",
+  "Revengeseekerz",
+  "Heart EP",
+  "Music Baby (leroy remix)",
+  "Singles",
+  "Arizona EP",
+  "Ghostholding"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
