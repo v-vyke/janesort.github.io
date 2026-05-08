@@ -49,10 +49,25 @@ var ary_TitleData = [
 //   "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
 //                                      [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
-  [1, "Oh! My! ME・GA・MIに恋してる!",                      [1,0,0,0,0,0,0,0,0], "albums/limitedEditionSingle.png"],
-  [1, "Breeder Breeder",                                  [1,0,0,0,0,0,0,0,0], "albums/limitedEditionSingle.png"],
+  [1, "ricky bobby",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "parental rift",                                  [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "go white enby go",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "outside",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "1235",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "theyfriend",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "2008",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "copyright strike my fucking nuts",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "will work for food",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "bluuuueeeee",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "die in my dream",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "turmoiled",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "dessert",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "2on",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "shashshashshash",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  [1, "virginity rockstar",                      [1,0,0,0,0,0,0,0,0,0,0,0,0], "albums/Dariacore.jpeg"],
+  
     
-  [1, "夢花火",                                            [0,1,0,0,0,0,0,0,0], "albums/screamingRhapsody.jpg"],
+  [1, "夢花火",                                            [0,1,0,0,0,0,0,0,0,0,0,0,0], "albums/screamingRhapsody.jpg"],
   [1, "恋ドラ!?",                                          [0,1,0,0,0,0,0,0,0], "albums/screamingRhapsody.jpg"],
   [1, "走れ!なでしこ!",                                     [0,1,0,0,0,0,0,0,0], "albums/screamingRhapsody.jpg"],
   [1, "わたしはわたしのままだよ",                             [0,1,0,0,0,0,0,0,0], "albums/screamingRhapsody.jpg"],
